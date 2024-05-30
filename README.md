@@ -1,2 +1,2 @@
 # simple-flask-app
-testing python with docker app
+testing python with docker app - development
